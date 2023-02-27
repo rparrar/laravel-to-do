@@ -24,8 +24,16 @@ De libre uso, si te sirve, lo quieres modificar, vender, arrendar, etc. utilizal
 
 <p align="center">
     <img src="https://www.rpi.cl/git-img/laravel-to-do/1-register.png" width="400" alt="cap 1">
+</p>
+<p align="center">
     <img src="https://www.rpi.cl/git-img/laravel-to-do/2-login.png" width="400" alt="cap 2">
+</p>
+<p align="center">
     <img src="https://www.rpi.cl/git-img/laravel-to-do/3-dashboard.png" width="400" alt="cap 3">
+</p>
+<p align="center">
     <img src="https://www.rpi.cl/git-img/laravel-to-do/4-addtodo.png" width="400" alt="cap 4">
+</p>
+<p align="center">
     <img src="https://www.rpi.cl/git-img/laravel-to-do/5-alltodo.png" width="400" alt="cap 5">
 </p>
