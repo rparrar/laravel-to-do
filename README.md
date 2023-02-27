@@ -37,3 +37,40 @@ De libre uso, si te sirve, lo quieres modificar, vender, arrendar, etc. utilizal
 <p align="center">
     <img src="https://www.rpi.cl/git-img/laravel-to-do/5-alltodo.png" width="400" alt="cap 5">
 </p>
+
+# Si quieres probar este sistema en tu PC. #
+
+- Clonar o descargar repositorio
+```
+$ git clone https://github.com/rparrar/laravel-to-do.git
+```
+- Actualizar dependencias de laravel
+```
+$ composer update
+```
+- Actualizar dependencias de node
+```
+$ npm install && npm run dev
+```
+- Crear un nuevo archivo .env
+```
+$ cp .env.example .env
+```
+- Crear una base de datos
+```
+Puede ser en phpmyadmin u otro administrador de bases de datos
+```
+- Actualizar variables de base de datos y usuario
+```
+DB_DATABASE =   base de datos creada
+DB_USERNAME =   usuario bases de datos
+DB_PASS=    =   contraseña usuario bases de datos
+```
+- Correr las migraciones
+```
+$ php artisan migrate
+```
+- Iniciar el servidor local
+```
+$ php artisan serve
+```
