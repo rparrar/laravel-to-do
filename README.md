@@ -23,19 +23,19 @@ De libre uso, si te sirve, lo quieres modificar, vender, arrendar, etc. utilizal
 # Capturas
 
 <p align="center">
-    <img src="https://www.rpi.cl/git-img/laravel-to-do/1-register.png" width="400" alt="cap 1">
+    <img src="https://i.postimg.cc/3x3zqjyY/1-register.png" width="400" alt="cap 1">
 </p>
 <p align="center">
-    <img src="https://www.rpi.cl/git-img/laravel-to-do/2-login.png" width="400" alt="cap 2">
+    <img src="https://i.postimg.cc/CxJ9pZDD/2-login.png" width="400" alt="cap 2">
 </p>
 <p align="center">
-    <img src="https://www.rpi.cl/git-img/laravel-to-do/3-dashboard.png" width="400" alt="cap 3">
+    <img src="https://i.postimg.cc/N0MSsg7n/3-dashboard.png" width="400" alt="cap 3">
 </p>
 <p align="center">
-    <img src="https://www.rpi.cl/git-img/laravel-to-do/4-addtodo.png" width="400" alt="cap 4">
+    <img src="https://i.postimg.cc/5tRGjZs2/4-addtodo.png" width="400" alt="cap 4">
 </p>
 <p align="center">
-    <img src="https://www.rpi.cl/git-img/laravel-to-do/5-alltodo.png" width="400" alt="cap 5">
+    <img src="https://i.postimg.cc/Y9LPFbPf/5-alltodo.png" width="400" alt="cap 5">
 </p>
 
 # Si quieres probar este sistema en tu PC. #
